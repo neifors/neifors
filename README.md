@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Isabel Repetto García-Plata
+
+- 👩💻 I’m currently studying Python Development Master
+
+- 📫 How to reach me: 
+
+    · 📧 isargp@gmail.com
+    · 🧩 https://www.linkedin.com/in/isabel-repetto-garcia-plata/
