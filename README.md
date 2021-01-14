@@ -37,7 +37,8 @@ Here are some ideas to get you started:
     
     
     I decided to go into Python's world just beacuse it was the most exciting programming language I knew during my student period.
-    ### I really look forward to getting started working in this creative world
+    ### I really want to start working in this job market as I am passionate about what I do
+    ## IF YOU WANT IT, GO FOR IT
 
 - 📫 How to reach me: 
 
