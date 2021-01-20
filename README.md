@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
     · 📧 isargp@gmail.com
-    · 🧩 https://www.linkedin.com/in/isabel-repetto-garcia-plata/
+    · 🧩 https://openwebinars.net/@neifors
