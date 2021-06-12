@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Isabel Repetto García-Plata
 
-- 💻 I’m currently studying a Python Development Master
+- 💻 I’m currently studying a Web Programming with Python and JavaScript Course at HarvardX
 
 - 🔙👩🏽 About me...
     
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
     Higher Level Education Cycle (CFGS) just 4 subjects away to get the certificate.
     
     2012 - 2015 --> I decided to keep on going and I started to study a Computer Engineering Degree as 
-    the Regional Government could provide me with a scholarship. There are somo goals to reach to continue
+    the Regional Government could provide me with a scholarship. There are some goals to reach to continue
     receiving that help and I did it the first two years. Sadly after my third one I had to leave it as well.
     
     2016 --> I spent the year working hard to get enough savings to come back to the university but they weren't.
     
     2017 - 2020 --> I moved to England searching for better opportunities. I've been learning and improving
-    my english while working as a chef. But most of all I've been saving money.
+    my english while working as a chef. But most of all I've been saving money to keep going with my studies.
     
     2020 - 2021 --> Finally, I started to study again, and that's what I'm currently doing. 👣
     
