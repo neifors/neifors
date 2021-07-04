@@ -35,8 +35,6 @@ Here are some ideas to get you started:
     
     2020 - 2021 --> Finally, I started to study again, and that's what I'm currently doing. 👣
     
-    
-    I decided to go into Python's world just beacuse it was the most exciting programming language I knew during my student period.
     ### I really want to start working in this job market as I am passionate about what I do
     ## IF YOU WANT IT, GO FOR IT
 
