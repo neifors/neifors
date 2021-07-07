@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     the Regional Government could provide me with a scholarship. There are some goals to reach to continue
     receiving that help and I did it the first two years. Sadly after my third one I had to leave it as well.
     
-    2016 --> I spent the year working hard to get enough savings to come back to the university but they weren't.
+    2016 --> I spent the year working hard to get enough savings to come back to the university but I couldn't get enough.
     
     2017 - 2020 --> I moved to England searching for better opportunities. I've been learning and improving
     my english while working as a chef. But most of all I've been saving money to keep going with my studies.
