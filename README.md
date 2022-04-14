@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Isabel Repetto García-Plata
 
-- 💻 I’m currently studying a Web Programming with Python and JavaScript Course at HarvardX
+- 💻 I’m currently a tech trainee at futureproof
+- and also I'm studying a Web Programming with Python and JavaScript Course at HarvardX
 
 - 🔙👩🏽 About me...
     
@@ -33,9 +34,9 @@ Here are some ideas to get you started:
     2017 - 2020 --> I moved to England searching for better opportunities. I've been learning and improving
     my english while working as a chef. But most of all I've been saving money to keep going with my studies.
     
-    2020 - 2021 --> Finally, I started to study again, and that's what I'm currently doing. 👣
+    2020... --> Finally, I started to study again, and that's what I'm currently doing. 👣
     
-    ### I really want to start working in this job market as I am passionate about what I do
+    ### I really want to start working in tech as I am passionate about what I do
     ## IF YOU WANT IT, GO FOR IT
 
 - 📫 How to reach me: 
